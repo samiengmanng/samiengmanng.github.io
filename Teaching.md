@@ -24,3 +24,6 @@ I have worked as a tutor in various economics courses at the Australian National
 
 ---
 
+### Research Assistant
+- 2021: I worked as a research assistant for Associate Professor Timothy Kam and Associate Professor Junsang Lee funded by their Australian Research Council Discovery Project (DP180103680), **Monetary Policy, Redistribution and Endogenous Asset Market Incompleteness**.
+
