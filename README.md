@@ -1,2 +1,2 @@
-[About](/About) &nbsp; [Research](/index) &nbsp; [Teaching](/Teaching)
+[About](/index) &nbsp; [Research](/Research) &nbsp; [Teaching](/Teaching)
 
