@@ -1,7 +1,9 @@
-[About](/About) &nbsp; [Research](/index) &nbsp; 
+[About](/About) &nbsp; [Research](/Research) &nbsp; 
 
 
+## Research
 
+---
 
 ### Working papers
 
