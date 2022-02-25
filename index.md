@@ -12,12 +12,9 @@
 
 ### Work in progress
 
-- [Banking, Capital and Monetary Policy]
-- [Price Dispersion, Banking and Welfare] joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
-- Project C
-
-
-
+- Banking, Capital and Monetary Policy (Job Market Paper)
+- Price Dispersion, Banking and Welfare joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
+- Corporate Finance and Imperfectly Competitive Banking joint work with Timothy Kam and Simon Mishricky
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
