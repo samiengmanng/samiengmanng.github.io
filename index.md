@@ -2,7 +2,9 @@
 
 ## About 
 
-I am a final year PhD candidate in economics at the Research School of Economics of the Australian National University. My primary interest is in Monetary Economics and Banking. My recent papers focus on how competition in the banking system affects monetary policy transmission.  
+* I am a final year PhD candidate in economics at the Research School of Economics of the Australian National University. 
+* My primary interest is in Monetary Economics and Banking. 
+* My PhD thesis focuses on how competition in the banking system affects monetary policy transmission.  
 
 ---
 
