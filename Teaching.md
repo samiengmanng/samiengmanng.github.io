@@ -14,5 +14,4 @@ I have worked as a tutor in various economics courses at the Australian National
 * 2022: ECON1102 Macroeconomics I
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
