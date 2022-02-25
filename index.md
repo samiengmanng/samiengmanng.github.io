@@ -19,13 +19,9 @@
 
 ### Work in progress
 
-- [Banking, Capital and Monetary Policy](http://example.com/)
-- [Price Dispersion, Banking and Welfare](http://example.com/)
+- [Banking, Capital and Monetary Policy]
+- [Price Dispersion, Banking and Welfare]
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
