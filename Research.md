@@ -3,8 +3,6 @@
 
 ## Research
 
----
-
 ### Working papers
 
 - [Money, Credit and Imperfect Competition Among Banks](https://github.com/samiengmanng/samiengmanng.github.io/files/8138292/hknp-2022-02-03.pdf)
