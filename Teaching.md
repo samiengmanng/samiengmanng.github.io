@@ -1,4 +1,4 @@
-[About](/index) &nbsp; [Research](/Research) &nbsp; [Teaching](/Teaching)
+[About](/index) &nbsp; [Research](/Research) &nbsp; [Teaching and others](/Teaching)
 
 ## Teaching Experience
 
