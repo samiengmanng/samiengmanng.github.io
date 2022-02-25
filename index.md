@@ -4,8 +4,9 @@
 
 ### Working papers
 
-[Money, Credit and Imperfect Competition Among Banks](http://example.com/)
-- joint work with Allen Head, Timothy Kam and Isaac Pan 
+- [Money, Credit and Imperfect Competition Among Banks](http://example.com/)
+  joint work with Allen Head, Timothy Kam and Isaac Pan 
+  
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 #<img src="images/dummy_thumbnail.jpg?raw=true"/>
