@@ -7,7 +7,8 @@
 
 - [**Money, Credit and Imperfect Competition Among Banks**](https://github.com/samiengmanng/samiengmanng.github.io/files/8138292/hknp-2022-02-03.pdf)
   joint work with Allen Head, Timothy Kam and Isaac Pan 
-- [**Banking, Capital and Monetary Policy**](https://github.com/samiengmanng/samiengmanng.github.io/files/8138463/bjaww_2022_02_23.pdf)
+- [**Banking, Capital and Monetary Policy**](https://github.com/samiengmanng/samiengmanng.github.io/files/8138906/bjaww_2022_02_23.pdf)
+
   Job Market Paper
   
 ### Work in progress
