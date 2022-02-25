@@ -1,34 +1,17 @@
-## Portfolio
+[About](/About) &nbsp; [Research](/Research) &nbsp; 
+
+## About 
+
+I am a final year PhD candidate in economics at the Research School of Economics of the Australian National University. My primary interest is in Monetary Economics and Banking. My recent papers focus on how competition in the banking system affects monetary policy transmission.  
 
 ---
 
-### Category Name 1 
+### Research tools
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+* Python 
+* STATA
+* R
+* MATLAB (DYNARE)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
