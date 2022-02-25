@@ -1,4 +1,4 @@
-[About](/About) &nbsp; [Research](/Research) &nbsp; 
+[About](/About) &nbsp; [Research](/Research) &nbsp; [Teaching](/Teaching)
 
 ## About 
 
