@@ -13,6 +13,10 @@ I am a final year PhD candidate in economics at the Research School of Economics
 * R
 * MATLAB (DYNARE)
 
+### My CV
+* CV[CV_2022_Feb.pdf](https://github.com/samiengmanng/samiengmanng.github.io/files/8138490/CV_2022_Feb.pdf)
+
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
