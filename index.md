@@ -1,10 +1,11 @@
+[hknp-2022-02-03.pdf](https://github.com/samiengmanng/samiengmanng.github.io/files/8138292/hknp-2022-02-03.pdf)
 ## Research
 
 ---
 
 ### Working papers
 
-- [Money, Credit and Imperfect Competition Among Banks](http://example.com/)
+- [Money, Credit and Imperfect Competition Among Banks](https://github.com/samiengmanng/samiengmanng.github.io/files/8138292/hknp-2022-02-03.pdf)
   joint work with Allen Head, Timothy Kam and Isaac Pan 
   
 ---
