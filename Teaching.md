@@ -1,6 +1,6 @@
-[About](/index) &nbsp; [Research](/Research) &nbsp; [Teaching and others](/Teaching)
+[About](/index) &nbsp; [Research](/Research) &nbsp; [Teaching](/Teaching)
 
-## Teaching Experience
+## Tutor and Research Assistant
 
 
 I have worked as a tutor in various economics courses at the Australian National University.
