@@ -9,7 +9,7 @@
   joint work with Allen Head, Timothy Kam and Isaac Pan 
 - **Banking, Capital and Monetary Policy** 
   joint work with Allen Head, Timothy Kam and Isaac Pan 
-  * [paper](https://github.com/samiengmanng/samiengmanng.github.io/files/8239087/bjaww_2022_03_12.pdf)
+  * [paper](https://github.com/samiengmanng/samiengmanng.github.io/files/8241012/bjaww_2022_03_12.pdf)
   * [slides](https://github.com/samiengmanng/samiengmanng.github.io/files/8239088/slides_ANU_v1.pdf)
 
 ### Work in progress
