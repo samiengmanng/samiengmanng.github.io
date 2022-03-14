@@ -10,7 +10,7 @@
 - **Banking, Capital and Monetary Policy** 
   joint work with Allen Head, Timothy Kam and Isaac Pan 
   * [paper](https://github.com/samiengmanng/samiengmanng.github.io/files/8241517/bjaww_2022_03_12.pdf)
-  * [slides](https://github.com/samiengmanng/samiengmanng.github.io/files/8241518/slides_ANU_v2.pdf)
+  * [slides](https://github.com/samiengmanng/samiengmanng.github.io/files/8241556/slides_ANU_v2.pdf)
 
 ### Work in progress
 - **Price Dispersion, Banking and Welfare** joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
