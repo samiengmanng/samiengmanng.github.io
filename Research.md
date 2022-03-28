@@ -16,6 +16,7 @@
 - **Price Dispersion, Banking and Welfare** joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
 - **Corporate Finance and Imperfectly Competitive Banking** joint work with Timothy Kam and Simon Mishricky
 - **Bank Market Power in a Heterogenous Agent New Monetarist Model**
+- **Innovation, Growth and Endogneous Bank Market Power**
 
 ---
 <p style="font-size:11px">
