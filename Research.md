@@ -15,5 +15,10 @@
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
 
 
+### Work in progress
+* Banking Competition, Innovation and Growth
+* Banking Competition in a Heterogeneous Agent New Monetarist Model
+* Central Bank Digital Currency, Banking Competition and Financial Stability
+
 ---
 <p style="font-size:11px">
