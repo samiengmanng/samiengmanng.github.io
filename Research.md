@@ -16,7 +16,7 @@
 
 
 ### Work in progress
-* Banking Competition, Innovation and Growth
+* Bank Market Power, Innovation and Growth
 * Banking Competition in a Heterogeneous Agent New Monetarist Model
 * Central Bank Digital Currency, Banking Competition and Financial Stability
 
