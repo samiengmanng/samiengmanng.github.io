@@ -13,7 +13,7 @@
   * [slides](https://github.com/samiengmanng/samiengmanng.github.io/files/8241717/slides_ANU_v2.pdf)
 - **Money, Credit and Market Power** 
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
-  * 
+
 
 ---
 <p style="font-size:11px">
