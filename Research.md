@@ -15,7 +15,7 @@
 ### Work in progress
 - **Inflation, Market Power and Capital Share** (draft available soon) 
   joint work with Hyungsuk Lee
-- **Lending Market Power: New Perspectives from a Microfounded Model of Liquidity and Private Information**
+- **Lending Market Power: New Perspectives from a Microfounded Model of Liquidity and Private Information** 
   joint work with Mei Dong, Timothy Kam and Stella Huangfu
 
 ---
