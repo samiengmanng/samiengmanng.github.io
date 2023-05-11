@@ -17,6 +17,8 @@
   joint work with Hyungsuk Lee
 - **Lending Market Power: New Perspectives from a Microfounded Model of Liquidity and Private Information** 
   joint work with Mei Dong, Timothy Kam and Stella Huangfu
+- **Banking and Firm Market Power in a New Monetarist Model** 
+  joint work with Mei Dong
 
 ---
 <p style="font-size:11px">
