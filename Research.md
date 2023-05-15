@@ -5,7 +5,7 @@
 
 ### Working papers
 
-- [**Money and Imperfectly Competitive Credit**](https://github.com/samiengmanng/samiengmanng.github.io/files/11328703/main_3April2023.pdf)
+- [**Money and Imperfectly Competitive Credit**](https://github.com/samiengmanng/samiengmanng.github.io/files/11474362/main-2023-05-12.pdf)
   joint work with Allen Head, Timothy Kam and Isaac Pan 
 - [**Banking Market Power, the Deposits Channel of Monetary Policy and Capital**](https://github.com/samiengmanng/samiengmanng.github.io/files/10397857/main_paper2.pdf)
   joint work with Allen Head, Timothy Kam and Isaac Pan 
