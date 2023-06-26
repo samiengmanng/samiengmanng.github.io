@@ -14,7 +14,7 @@ and Market Power**](https://github.com/samiengmanng/samiengmanng.github.io/files
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
   
 ### Work in progress
-- **Inflation, Market Power and Capital Share** (draft available soon) 
+- **Inflation, Markups Dispersion and Capital Share** (draft available soon) 
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
 - **Lending Market Power: New Perspectives from a Microfounded Model of Liquidity and Private Information** 
   joint work with Mei Dong, Timothy Kam and Stella Huangfu
