@@ -14,9 +14,9 @@ and Market Power**](https://github.com/samiengmanng/samiengmanng.github.io/files
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
   
 ### Work in progress
-- **Inflation, Markups Dispersion and Capital Share** (draft available soon) 
+- **Inflation, Markups Dispersion and Capital Share** 
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
-- **Lending Market Power: New Perspectives from a Microfounded Model of Liquidity and Private Information** 
+- **Lending Market Power, Private Information and Bank Risk Taking** 
   joint work with Mei Dong, Timothy Kam and Stella Huangfu
 - **Banking and Firm Market Power: a New Monetarist Approach** 
   joint work with Mei Dong, Allen Head and Timothy Kam
