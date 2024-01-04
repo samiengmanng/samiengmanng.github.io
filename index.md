@@ -2,9 +2,8 @@
 
 ## About 
 
-* I am currently working as a postdoctoral research fellow at the University of Melbourne, where my research is supported by the ARC Discovery Project DP210101688 (Chief investigators: Mei Dong, Timothy Kam and Stella Huangfu). This project focuses on the relationship between banking system competition and its impact on the broader macro-economy. 
-* My primary interest is in Monetary Economics and Banking. 
-* My PhD thesis focuses on how competition in the banking system affects monetary policy transmission.  
+* I am a Macau Fellow at the University of Macau.  
+* My primary research interest is Monetary Economics and Banking. 
 
 ---
 
