@@ -3,7 +3,7 @@
 ## About 
 
 * I am a Macau Fellow at the University of Macau.  
-* My primary research interest is Monetary Economics and Banking. 
+* My research interests are Monetary Economics and Banking. 
 
 ---
 
