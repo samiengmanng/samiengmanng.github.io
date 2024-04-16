@@ -2,7 +2,7 @@
 
 ## About 
 
-* I am a Macau Fellow at the University of Macau.  
+* I am a UM Macau Fellow at the University of Macau.  
 * My research interests are Monetary Economics and Banking. 
 
 ---
