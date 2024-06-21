@@ -17,7 +17,7 @@
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee
 - **Lending Market Power, Private Information and Bank Risk Taking** 
   joint work with Mei Dong, Stella Huangfu and Timothy Kam 
-- **Banking and Firm Market Power: a New Monetarist Approach** 
+- **Banking Concentration and Loan Market Power in the Presence of Private Information** 
   joint work with Mei Dong, Allen Head and Timothy Kam
 
 ---
