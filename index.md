@@ -15,7 +15,8 @@
 * MATLAB (DYNARE)
 
 ### My CV
-* [CV](https://github.com/user-attachments/files/15921475/cv_June2024_sam_ng.pdf)
+* [CV](https://github.com/user-attachments/files/16607124/cv_June2024_sam_ng.pdf)
+
 
 
 
