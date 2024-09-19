@@ -1,25 +1,24 @@
 [About](/index) &nbsp; [Research](/Research) &nbsp; [Teaching](/Teaching)
 
+## Course instructor
+- 2024 (University of Macau)
+  * ECON8806 Advanced Topics in Macroeconomics 
+
 ## Tutor and Research Assistant
-
-
-I have worked as a tutor in various economics courses at the Australian National University.
-
----
 
 ### Courses
 
-- 2018 
+- 2018 (ANU):
   * ECON7074 Macroeconomic Analysis 
   * ECON2102 Macroeconomics II
-- 2019: 
+- 2019 (ANU):
   * ECON2102 Macroeconomics II
-- 2020: 
+- 2020 (ANU): 
   * ECON8026 Advanced Macroeconomic Analysis
-- 2021: 
+- 2021 (ANU): 
   * ECON8026 Advanced Macroeconomic Analysis
   * ECON8069 Business Economics
-- 2022: 
+- 2022 (ANU): 
   * ECON1102 Macroeconomics I
 
 ---
