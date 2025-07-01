@@ -6,7 +6,7 @@
 ### Working papers
 
 - [**Money and Imperfectly Competitive Credit**](https://github.com/user-attachments/files/20735725/main-2025-06-06.pdf)
-  joint work with Allen Head, Timothy Kam and Isaac Pan (Revise and Resubmit at Journal of Economic Theory) 
+  joint work with Allen Head, Timothy Kam and Isaac Pan (Forthcoming, Journal of Economic Theory) 
 - [**Market Power, Banking and Capital: the Deposits Channel**](https://github.com/samiengmanng/samiengmanng.github.io/files/11843866/HKNP-2.pdf)
   joint work with Allen Head, Timothy Kam and Isaac Pan (Under renovation)
 - [**On a Pecuniary Externality of Competitive Banking through Goods Pricing Dispersion**](https://github.com/user-attachments/files/18113431/main-klln-dec-2024.pdf)
