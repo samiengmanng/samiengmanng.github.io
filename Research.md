@@ -8,8 +8,9 @@
 
   *Journal of Economic Theory* (2025), 228, 106050
 
-  joint with Allen Head, Timothy Kam and Isaac Pan
+  Joint with Allen Head, Timothy Kam and Isaac Pan
   - [**working paper version**](https://github.com/user-attachments/files/20735725/main-2025-06-06.pdf)
+
 
 - [**On a Pecuniary Externality of Competitive Banking through Goods Pricing Dispersion**](https://github.com/user-attachments/files/21191548/main-July-10.pdf)
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee (Forthcoming, European Economic Review)
