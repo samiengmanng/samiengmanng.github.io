@@ -5,8 +5,8 @@
 
 ### Publications
 - [**Money and Imperfectly Competitive Credit**](https://www.sciencedirect.com/science/article/pii/S0022053125000961)
-- Allen Head, Timothy Kam and Isaac Pan
-- [**working paper version**](https://github.com/user-attachments/files/20735725/main-2025-06-06.pdf)
+  - Allen Head, Timothy Kam and Isaac Pan
+  - [**working paper version**](https://github.com/user-attachments/files/20735725/main-2025-06-06.pdf)
 
 - [**On a Pecuniary Externality of Competitive Banking through Goods Pricing Dispersion**](https://github.com/user-attachments/files/21191548/main-July-10.pdf)
   joint work with Timothy Kam, Hyungsuk Lee and Junsang Lee (Forthcoming, European Economic Review)
