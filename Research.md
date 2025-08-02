@@ -4,8 +4,9 @@
 ## Research
 
 ### Publications
-- [**Money and Imperfectly Competitive Credit**](https://www.sciencedirect.com/science/article/pii/S0022053125000961) (*Journal of Economic Theory* (2025), 228, 106050
-    joint with Allen Head, Timothy Kam and Isaac Pan
+- [**Money and Imperfectly Competitive Credit**](https://www.sciencedirect.com/science/article/pii/S0022053125000961) *Journal of Economic Theory* (2025), 228, 106050
+
+  joint with Allen Head, Timothy Kam and Isaac Pan
   - [**working paper version**](https://github.com/user-attachments/files/20735725/main-2025-06-06.pdf)
 
 - [**On a Pecuniary Externality of Competitive Banking through Goods Pricing Dispersion**](https://github.com/user-attachments/files/21191548/main-July-10.pdf)
