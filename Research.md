@@ -6,8 +6,8 @@
 ### Publications
 - [**Money and Imperfectly Competitive Credit**](https://www.sciencedirect.com/science/article/pii/S0022053125000961)
   Joint with Allen Head, Timothy Kam and Isaac Pan
+  
   *Journal of Economic Theory* (2025), 228, 106050
-
   - [**working paper version**](https://github.com/user-attachments/files/20735725/main-2025-06-06.pdf)
 
 
