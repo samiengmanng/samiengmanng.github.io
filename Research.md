@@ -15,7 +15,7 @@
 [**Banking concentration and loan-rate markups in a frictional loan market**](https://github.com/user-attachments/files/28776322/dhkn-main-r2-2026.pdf)
  Joint with Mei Dong, Stella HuangFu and Timothy Kam, *European Economic Review* (2026), 188, 105393
 
-[**Tax-Base Concentration and Granular Fiscal Risk: Evidence from Macau's Gaming Sector**]
+**Tax-Base Concentration and Granular Fiscal Risk: Evidence from Macau's Gaming Sector**
  Joint with Nikolai Chow and Hyungsuk Lee, *Forthcoming, Economic Modelling* (2026)
  
 ### Working papers
